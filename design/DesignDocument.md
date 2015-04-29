@@ -45,7 +45,7 @@ When a page loads in the window a PrivilegedCF is attached to (or was already lo
 
 The architecture of the IE CEEE is conceptually very similar, but in practice much more complex than the Firefox CEEE.  See the following overview diagram:
 
-![ceee_overview.png](ceee_overview.png)
+![ceee-overview.png](ceee-overview.png)
 
 In the diagram above, we can draw the following parallels to the Firefox CEEE by way of explaining the architecture:
   * All Chrome Frame instances are the ActiveX equivalent of the PrivilegedCF instances we mentioned in Firefox; however:
